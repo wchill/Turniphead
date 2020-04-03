@@ -4,13 +4,14 @@ description: Sometimes people will do things against the rules. Here's how to re
 
 # Reporting
 
-## Can I become who I want to be?
+## How to report Hosts
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+If you have an issue with a host ex; nook price isn't what was advertised, requiring an entry fee/tips. Please DM a mod or tag them. _If the issue is in the ad channel please tag the mod outside of this area such as the discussion thread._ 
 
-## Have you had a chance to answer the previous question?
+## How to report people who come to your island
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+If you have issues while hosting, ex; griefers, not listening to your rules, harassing you over dm. Please dm the mods with complete details; Character & Town name, FC ideally, screenshots, etc  
+
 
 
 
