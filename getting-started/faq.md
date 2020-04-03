@@ -44,7 +44,7 @@ You can time travel forward with turnips, but if you time travel past Saturday a
 
 ## Can I go to someones island who has time traveled? 
 
-Yes, traveling to other's island who have time traveled won't spoil. 
+Yes, traveling to other's island who have time traveled won't spoil. _However, sometimes traveling back to your island with turnips from and island that has time traveled may spoil your turnips._ 
 
 ## What's a good price to post an ad for? 
 

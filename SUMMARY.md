@@ -21,6 +21,7 @@
 ## Hosting Guests <a id="hosting-queues"></a>
 
 * [Hosting](hosting-queues/untitled.md)
+* [Reporting](hosting-queues/reporting.md)
 
 ## Time Travelling
 
