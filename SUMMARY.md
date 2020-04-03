@@ -26,4 +26,5 @@
 ## Time Travelling
 
 * [Untitled](time-travelling/untitled.md)
+* [Discord Rules](discord-rules.md)
 
