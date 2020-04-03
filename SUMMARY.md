@@ -16,6 +16,7 @@
 
 ## Joining others
 
+* [Discord Rules](joining-others/discord-rules.md)
 * [Untitled](joining-others/untitled.md)
 
 ## Hosting Guests <a id="hosting-queues"></a>
@@ -26,5 +27,4 @@
 ## Time Travelling
 
 * [Untitled](time-travelling/untitled.md)
-* [Discord Rules](discord-rules.md)
 
