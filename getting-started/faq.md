@@ -54,3 +54,18 @@ Generally anything above 150 bells, but a lot of our host will time travel to fi
 
 While tips are never mandatory, they're usually appreciated. The recommended tip is 10% of profits from turnips in bells. Though sometimes host would rather like some furniture! So have a look at what the ad says.
 
+## How do I prevent getting scammed? 
+
+In both hosting and buying/selling there are people who will try to take advantage of you. Here are some good tips on trying to avoid griefers.   
+
+
+* Put up fences. Fence in Daisy Mae, or make a fence path to the Nook store. This will help keep people out of your town so they can steal. 
+* Keep the Dodo code Private. This helps know who you’re letting in, if they do something bad you’re able to report them to mods with their reddit or discord name. 
+* On that note, be careful with who you share Dodo code with, as the subreddit has an issue where bots will share with each other. 
+* Keep a Google doc. A good way to keep track of reddit/discord names and their in game names and towns. Keep this on view only for people in the queue, cause people will change the queue to benefit them. 
+* Do not go to islands that require an entry fee. Some people will DC after receiving the fee. 
+
+
+
+
+
