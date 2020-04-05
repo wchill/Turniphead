@@ -6,19 +6,13 @@ description: >-
 
 # Buying
 
-## Getting Super Powers
+## Where to buy turnips
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
+Turnips can be bought on Sundays anytime between 5am-12pm by Daisy Mae. She can be found wandering around the island. 
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+If you invite someone to the island daisy mae may spawn in a different place
 {% endhint %}
-
-Once you're strong enough, save the world:
 
 {% code title="hello.sh" %}
 ```bash

@@ -10,7 +10,17 @@ If you have an issue with a host ex; nook price isn't what was advertised, requi
 
 ## How to report people who come to your island
 
-If you have issues while hosting, ex; griefers, not listening to your rules, harassing you over dm. Please dm the mods with complete details; Character & Town name, FC ideally, screenshots, etc  
+If you have issues while hosting, ex; griefers, not listening to your rules, harassing you over dm. Please dm the mods with complete details; Character & Town name, FC ideally, screenshots, etc
+
+
+
+## How to report inappropriate content
+
+If you go to an island and there is any inappropriate contact or pictures DM and mod or tag them. You may also report them by pressing the - button and click report 
+
+
+
+  
 
 
 
