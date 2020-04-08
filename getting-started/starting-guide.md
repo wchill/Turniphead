@@ -30,6 +30,8 @@ If you wanted to go deep into the Stalk Market for those big returns our suggest
 
 Depending on your inventory size and the price Daisy Mae is selling turning for, the largest amount you would need for a full inventory would be 440,000 bells.
 
+Here's a few ideas how to make some quick bucks
+
 
 
 {% code title="hello.sh" %}
